@@ -12,3 +12,4 @@ Max_sum_cycle.java -->  Given the graph, Print out the maximum weight Cycle of t
 
 max_sum_node.java --> Problem Description : You are given a maze with N cells. Each cell may have multiple entry points but not more than one exit (i.e. entry/exit points are unidirectional doors like valves).
 
+remove_construct.java --> String: No. of characters to be removed to convert the given string to “Juspay”.
